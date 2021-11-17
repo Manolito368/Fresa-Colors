@@ -1,0 +1,18 @@
+{
+"block.fresacolors.white_block":"Bloque Blanco",
+"block.fresacolors.red_block":"Bloque Rojo",
+"block.fresacolors.yellow_block":"Bloque Amarillo",
+"block.fresacolors.orange_block":"Bloque Naranjo",
+"block.fresacolors.purple_block":"Bloque Morado",
+"block.fresacolors.blue_block":"Bloque Azul",
+"block.fresacolors.gray_block":"Bloque Gris",
+"block.fresacolors.light_gray_block":"Bloque Gris Claro",
+"block.fresacolors.green_block":"Bloque Verde",
+"block.fresacolors.lime_block":"Bloque Lima",
+"block.fresacolors.magenta_block":"Bloque Magenta",
+"block.fresacolors.black_block":"Bloque Negro",
+"block.fresacolors.pink_block":"Bloque Rosa",
+"block.fresacolors.light_blue_block":"Bloque Celeste",
+"block.fresacolors.brown_block":"Bloque Café",
+"block.fresacolors.cyan_block":"Bloque Cián"
+}

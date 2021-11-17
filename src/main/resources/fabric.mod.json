@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "fresa",
+  "id": "fresacolors",
   "version": "1.0.0",
 
-  "name": "Fresa",
-  "description": "Fresa is a mod that adds extreamly simple color blocks",
+  "name": "Fresa Colors",
+  "description": "Fresa Colors is a mod that adds extreamly simple color blocks",
   "authors": [
     "Manolito368"
   ],
@@ -13,12 +13,12 @@
   },
 
   "license": "MIT",
-  "icon": "assets/fresa/icon.png",
+  "icon": "assets/fresacolors/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "manolitowo.fresa.mod.FresaMod"
+      "manolitowo.fresa.colors.FresaMod"
     ]
   },
 
